@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="navigation_title_profile">Profile</string>
+    <string name="navigation_title_movies">Movies</string>
+    <string name="navigation_title_images">Images</string>
+    <string name="imageUploadButton_content_description">Button used to upload a set of images to Firebase storage</string>
+    <string name="imageUploadTextView_text">Press the button to select the image(s) to be uploaded to Firebase storage</string>
+    <string name="chipPopular_text">Popular</string>
+    <string name="chipTopRated_text">Top Rated</string>
+    <string name="chipRecommended_text">Recommended</string>
+    <string name="movieNameTextView_text">Movie name</string>
+    <string name="movieOverviewTextView_text">Overview</string>
+    <string name="movieScoreTitleTextView_text">Score</string>
+    <string name="movieScoreTextView_text">Scoring</string>
+    <string name="itemMoviesImageView_content_description">Movie Poster</string>
+    <string name="profileNameTextView_text">Profile Name</string>
+    <string name="roleTitleTextView_text">Role</string>
+    <string name="roleTextView_text">Profile Role</string>
+    <string name="popularityTitleTextView_text">TMDB Score</string>
+    <string name="bestKnownForPreTextView_text">Best Known For</string>
+    <string name="bestKnownForDescriptionTextView_text">Movie description</string>
+    <string name="profileImageView_content_description">Profile picture</string>
+
+
+</resources>

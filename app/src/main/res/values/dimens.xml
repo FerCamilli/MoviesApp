@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="imageUploadButton_bottom_margin">16dp</dimen>
+    <dimen name="imageUploadTextView_side_margins">66dp</dimen>
+    <dimen name="itemMovieTextCardView_width_margins">8dp</dimen>
+    <dimen name="itemMovieTextCardView_height_margins">16dp</dimen>
+</resources>
